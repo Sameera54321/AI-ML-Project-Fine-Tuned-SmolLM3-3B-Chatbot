@@ -37,8 +37,43 @@ This project provided hands-on experience with:
 
 A custom dataset was created in CSV format using conversational question-answer pairs.
 
-Example:
+## ⚡ Training Process
 
-```text
-User: What is AI?
-Assistant: AI means Artificial Intelligence. It allows computers to learn and make decisions like humans.
+The model was fine-tuned on Kaggle using GPU acceleration with:
+
+Hugging Face Transformers
+TRL (Transformer Reinforcement Learning)
+Custom conversational dataset
+
+Training included:
+
+Dataset loading
+Tokenization
+Fine-tuning for 3 epochs
+Model evaluation
+
+## 🌐 Live Demo
+
+🔗 Hugging Face Space:
+
+https://huggingface.co/spaces/sameerabuddhika/smollm3-chatbot?utm_source=chatgpt.com
+
+## 🎯 Features
+
+AI-powered chatbot
+Public web interface
+Custom fine-tuned responses
+Interactive conversational system
+Hugging Face deployment
+
+## 📚 Skills Gained
+AI Model Fine-Tuning
+Dataset Preparation
+GPU-Based Model Training
+Hugging Face Deployment
+Conversational AI Development
+Gradio Application Development
+
+## 👨‍💻 Author
+
+Sameera Buddhika
