@@ -2,6 +2,8 @@
 
 This project demonstrates the fine-tuning and deployment of the **SmolLM3-3B** language model using a custom conversational dataset. The model was trained using **Kaggle GPU (T4 x2)** and deployed publicly using **Hugging Face Spaces** with a **Gradio-based chatbot interface**.
 
+![image alt](https://github.com/Sameera54321/AI-ML-Project-Fine-Tuned-SmolLM3-3B-Chatbot/blob/main/Screenshot%202026-05-13%20191118.png?raw=true)
+
 ---
 
 ## 📌 Project Overview
